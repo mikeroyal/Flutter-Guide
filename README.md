@@ -10,6 +10,8 @@
 
 [Flutter](https://flutter.dev/) is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile(Andorid and iOS), web, and desktop(Windows, MacOS, Linux, and Google Fuchsia) from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
+[Flutter Gems](https://fluttergems.dev) is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.
+
 [Flutter documentation](https://flutter.dev/docs)
 
 [Style Guide for Flutter ](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
@@ -21,8 +23,6 @@
 [Flutter Tools & techniques](https://flutter.dev/docs/development/tools)
 
 [Dart and Flutter: The Complete Developer's Guide by Udemy](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/)
-
-[Flutter Gems](https://fluttergems.dev) is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.
 
 ## Tools
 
