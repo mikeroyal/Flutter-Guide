@@ -4,9 +4,16 @@
   Flutter Guide
 </h1>
 
-#### A guide covering the Flutter Framework including the applications and tools that will make you a better and more efficient Kotlin developer.
+#### A guide covering the Flutter Framework including the applications and tools that will make you a better and more efficient Flutter developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120120794-87853600-c154-11eb-8f9b-ea97607c03c7.png">
+  <br />
+</p>
+
+# Flutter Learning Resources
 
 [Flutter](https://flutter.dev/) is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile(Andorid and iOS), web, and desktop(Windows, MacOS, Linux, and Google Fuchsia) from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
@@ -46,7 +53,7 @@
 
 [Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
 
-## Tools
+# Flutter Tools & Frameworks
 
 [Firebase](https://firebase.google.com/) is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.
 
@@ -60,4 +67,11 @@
 
 [Fluro](https://github.com/theyakka/fluro) is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
 
-[Flame](https://flame-engine.org/) is a minimalistic Flutter game engine.
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Flutter-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
