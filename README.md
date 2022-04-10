@@ -13,6 +13,8 @@
   <br />
 </p>
 
+# Table of Contents
+
 1. [Flutter Learning Resources](https://github.com/mikeroyal/Flutter-Guide#flutter-learning-resources)
 
 2. [Flutter Tools & Frameworks](https://github.com/mikeroyal/Flutter-Guide#flutter-tools--frameworks)
